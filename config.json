@@ -1,0 +1,26 @@
+{
+    "nome": "Aula: Introdução a Internet e a Web",
+    "academico":{
+        "curso": "Autoração Multimídia II",
+        "cursoIcone": "layout/icones/banner_henrique.svg",
+        "disciplina":"",
+        "responsavel": "Professor Wellington Sarmento / Professor Mauro Pequeno / Professor Henrique Sergio"
+    },
+     "topicos": [        
+        {
+            "nome": "Tópico 01: A estrutura básica que permite a existência da Web",
+            "local": "topicos/01.html",
+            "audio": "audios/01.mp3",
+            "default": true
+        }
+    ],
+    "pdf": "pdf/AutoracaoMultimidiaII_aula_11.pdf",
+    "audio": "audios/AutoracaoMultimidiaII_aula_11.mp3",    
+    "tema":{
+      "primario": "purple-900",
+      "contraste": "orange"
+    },
+    "imported_styles":[
+        "custom.css"
+    ]
+}

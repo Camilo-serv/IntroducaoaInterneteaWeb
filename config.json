@@ -12,10 +12,33 @@
             "local": "topicos/01.html",
             "audio": "audios/01.mp3",
             "default": true
+        },
+        {
+            "nome": "Tópico 02: Introdução ao TCP/IP ",
+            "local": "topicos/02.html",
+            "audio": "audios/02.mp3"
+        }
+        ,
+        {
+            "nome": "Tópico 03: Domain Name System (DNS)",
+            "local": "topicos/03.html",
+            "audio": "audios/03.mp3"
+        }
+        ,
+        {
+            "nome": "Tópico 04: World Wide Web (Web)",
+            "local": "topicos/04.html",
+            "audio": "audios/04.mp3"
+        }
+        ,
+        {
+            "nome": "Tópico 05: O protocolo HTTP",
+            "local": "topicos/05.html",
+            "audio": "audios/05.mp3"
         }
     ],
-    "pdf": "pdf/AutoracaoMultimidiaII_aula_11.pdf",
-    "audio": "audios/AutoracaoMultimidiaII_aula_11.mp3",    
+    "pdf": "pdf/AutoracaoMultimidiaII.pdf",
+    "audio": "audios/AutoracaoMultimidiaII.mp3",    
     "tema":{
       "primario": "purple-900",
       "contraste": "orange"
